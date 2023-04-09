@@ -98,6 +98,7 @@
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1420;
 				LastUpgradeCheck = 1420;
+				ORGANIZATIONNAME = "Kraig Kistler";
 				TargetAttributes = {
 					20E90A6029E1E7A800E1D857 = {
 						CreatedOnToolsVersion = 14.2;
